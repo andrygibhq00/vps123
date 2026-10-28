@@ -75,7 +75,7 @@ RAM=15000
 CPU=4
 DISK_SIZE=32G
 CONTAINER_NAME=hopingboyz
-IMAGE_NAME=hopingboyz/ubuntu22
+IMAGE_NAME=hopingboyz/ubuntu22.04
 VMDATA_DIR="$PWD/vmdata"
 
 mkdir -p "$VMDATA_DIR"
